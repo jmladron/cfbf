@@ -3,7 +3,7 @@ Cuckoo Filter with an Integrated Bloom Filter (CFBF)
 
 ## Description
 
-The goal of CFBF is to integrate a Bloom filter in the Cuckoo Filter to improve its performance during burst of hundreds of insertions
+The goal of CFBF is to integrate a Bloom filter in the Cuckoo Filter to improve its performance during burst of hundreds of insertions. this code is used in the paper "Reducing the Insertion Time of Cuckoo Filters with an Integrated Bloom Filter" by P. Reviriego, J. Martínez and S. Pontarelli
 
 ## Compilation
 
