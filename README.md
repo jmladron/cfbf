@@ -21,7 +21,7 @@ Command line arguments for CFBF are:
 - r: runs (trials), default value is 1000
 - f: fingerprint_bits, default value is f = {12}
 
-###### example: cfbf.exe o=94 t=10 b=491 r=5000 f=12
+#### example: cfbf.exe o=94 t=10 b=491 r=5000 f=12
 
 ## Authors
 
