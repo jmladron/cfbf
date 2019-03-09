@@ -5,13 +5,11 @@ Cuckoo Filter with an Integrated Bloom Filter (CFBF)
 
 The goal of CFBF is to integrate a Bloom filter in the Cuckoo Filter to improve its performance during burst of hundreds of insertions
 
-
-Compilation
+## Compilation
 
 This Visual Studio C++ project consists of 3 files: CF.hpp (declaration file), CF.cpp (source file) and main.cpp (testbench)
 
-
-Usage
+## Usage
 
 Command line arguments for CFBF are:
 
@@ -25,12 +23,10 @@ f: fingerprint_bits, default value is f = {12}
 
 example: cfbf.exe o=94 t=10 b=491 r=5000 f=12
 
-
-Authors
+## Authors
 
 The Cuckoo Filter was developed by S. Pontarelli (salvatore.pontarelli@uniroma2.it) and the enhanced CFBF was developed by J. Martinez (jorge.martinez@ufv.es)
 
-
-License
+## License
 
 ?
