@@ -1,4 +1,4 @@
-# cfbf
+# CBBF
 Cuckoo Filter with an Integrated Bloom Filter (CFBF)
 
 ## Description
@@ -7,9 +7,9 @@ The goal of CFBF is to integrate a Bloom filter in the Cuckoo Filter to improve 
 
 ## Compilation
 
-This Visual Studio C++ project consists of 3 files: CF.hpp (declaration file), CF.cpp (source file) and main.cpp (testbench)
+This Visual Studio C++ project consists of 3 files: CF.hpp (declaration file), CF.cpp (source file) and main.cpp (test bench)
 
-## Usage
+## Command line arguments
 
 Command line arguments for CFBF are:
 
