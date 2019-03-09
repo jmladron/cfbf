@@ -13,9 +13,8 @@ This Visual Studio C++ project consists of 3 files: CF.hpp (declaration file), C
 
 Command line arguments for CFBF are:
 
-s: filter size, default value is 8192
-
-c: filter cells in bucket, default value is 4
+- s: filter size, default value is 8192
+- c: filter cells in bucket, default value is 4
 
 o: filter occupancy, default value is 95%
 
