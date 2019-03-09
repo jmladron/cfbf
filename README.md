@@ -31,7 +31,7 @@ example: cfbf.exe o=94 t=10 b=491 r=5000 f=12
 
 ## Authors
 
-The Cuckoo Filter was developed by S. Pontarelli (salvatore.pontarelli@uniroma2.it) and the enhanced CFBF was developed by J. Martinez (jorge.martinez@ufv.es)
+The Cuckoo Filter was developed by S. Pontarelli and the CFBF was developed by J. Martinez
 
 ## License
 
