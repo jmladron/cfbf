@@ -37,7 +37,7 @@ class CF {
 		int insert_cfbf(uint64_t p, int fingerprint, int bf_thresold);
 		int insert_bf(uint64_t p, int fingerprint);
 		int hash(uint64_t key, int i, int s);
-        int RSHash(uint64_t key);
-        int JSHash(uint64_t key);
+        	int RSHash(uint64_t key);
+        	int JSHash(uint64_t key);
 
 };
