@@ -1,5 +1,5 @@
 # CFBF
-Cuckoo Filter with an Integrated Bloom Filter (CFBF)
+Cuckoo Filter with an Integrated Bloom Filter (CFBF) 
 
 ## Description
 
