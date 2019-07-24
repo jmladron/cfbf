@@ -1,5 +1,5 @@
 //
-// CF.cpp : Cuckoo Filter by S. Pontarelli and CFBF by J. Martinez
+// CF.cpp : Cuckoo Filter by S. Pontarelli and CFBF by J. Martinez 
 //
 
 #include "pch.h"
