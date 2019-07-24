@@ -1,5 +1,5 @@
 //
-// CF-BF Cuckoo filter with integrated Bloom Filter by S. Pontarelli and J. Martinez
+// CF-BF Cuckoo filter with integrated Bloom Filter by S. Pontarelli and J. Martinez 
 //
 
 #include "pch.h"
