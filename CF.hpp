@@ -1,5 +1,5 @@
 //
-// Cuckoo Filter by S. Pontarelli and CFBF by J. Martinez
+// Cuckoo Filter by S. Pontarelli and CFBF by J. Martinez 
 //
 
 #include <cstdint>
